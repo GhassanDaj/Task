@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GhassanDaj/Task/static/css/main.31967faa.css",
+    "main.js": "/GhassanDaj/Task/static/js/main.3954330a.js",
+    "static/js/453.f6e6b26b.chunk.js": "/GhassanDaj/Task/static/js/453.f6e6b26b.chunk.js",
+    "index.html": "/GhassanDaj/Task/index.html",
+    "main.31967faa.css.map": "/GhassanDaj/Task/static/css/main.31967faa.css.map",
+    "main.3954330a.js.map": "/GhassanDaj/Task/static/js/main.3954330a.js.map",
+    "453.f6e6b26b.chunk.js.map": "/GhassanDaj/Task/static/js/453.f6e6b26b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31967faa.css",
+    "static/js/main.3954330a.js"
+  ]
+}
